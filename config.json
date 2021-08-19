@@ -8,7 +8,7 @@
     "text": "J Rauch"
   },
   "text": {
-    "more": "",
+    "more": "This is a network of named entities found in 3,298 articles in Dutch media between March 2011 and June 2021. \n\nThe weight of a link between two entities (here given by edge thickness) is given by the number of their co-occurrences within sentences.\n\nThe network is divided into clusters as signified by color.\n\nYou can find out the following information on nodes by clicking on them: Average sentiment, dominant topic and topic loadings, number of mentions by source, as well as all links.\n",
     "intro": "This is a network of named entities found in 3,298 articles in Dutch media between March 2011 and June 2021. \n\nThe weight of a link between two entities (here given by edge thickness) is given by the number of their co-occurrences within sentences.\n\nThe network is divided into clusters as signified by color.\n\nYou can find out the following information on nodes by clicking on them: Average sentiment, dominant topic and topic loadings, number of mentions by source, as well as all links.\n",
     "title": "RLI Nuclear Energy Named Entity Network"
   },
