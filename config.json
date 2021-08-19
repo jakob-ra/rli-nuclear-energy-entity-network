@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "J Rauch"
+  },
+  "text": {
+    "more": "",
+    "intro": "This is a network of named entities found in 3,298 articles in Dutch media between March 2011 and June 2021. \n\nThe weight of a link between two entities (here given by edge thickness) is given by the number of their co-occurrences within sentences.\n\nThe network is divided into clusters as signified by color.\n\nYou can find out the following information on nodes by clicking on them: Average sentiment, dominant topic and topic loadings, number of mentions by source, as well as all links.\n",
+    "title": "RLI Nuclear Energy Named Entity Network"
+  },
+  "legend": {
+    "edgeLabel": "Co-occurence (sentence level)",
+    "colorLabel": "Modularity class",
+    "nodeLabel": "Entity"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#fff",
+      "labelThreshold": 3,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 30
+    },
+    "graphProperties": {
+      "maxEdgeSize": 30,
+      "minEdgeSize": 1,
+      "minNodeSize": 0.25,
+      "maxNodeSize": 10
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
